@@ -1,0 +1,9 @@
+{
+	"description": "A Black & White shard.",
+	"image": "ipfs://Qmf3gikfjcmHEMsJxVYzHmTwToPsiKZgxFuQKkm5dD4gXF/0.png",
+	"name": "#0",
+	"attributes": [
+	{"trait_type": "Color",
+	"value": "Black & White"}
+	]
+}
