@@ -1,5 +1,11 @@
-# ERC721 Example Collection (Opensea Compatible)
-An example ERC721 collection, with incrementing token IDs and opensea compatibility.
+# ERC721 Example Collection
+An example ERC721 collection
+# Features
+Incrementing token IDs
+A static mint price
+Opensea compatibility
+Limited supply, current contract only allows the minting of 6 NFTs.
+Withdrawable funds (Of course)
 # How To "Launch"
 I recommend using Pinata.cloud for storing your NFT data.
 1. Upload as a folder the images folder to Pinata.
