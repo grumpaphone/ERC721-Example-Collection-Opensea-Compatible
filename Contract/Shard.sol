@@ -69,7 +69,7 @@ contract Shard is ERC721, ERC721Enumerable, Ownable {
 
     // Allows the deployer/owner of this contract to withdraw any ether they make from people minting their NFTs.
     function withdraw() public onlyOwner{
-        require(address(this).balance >= 0, "Balance is 0");
+        require(address(this).balance > 0, "Balance is 0");
         payable(owner()).transfer(address(this).balance);
     }
 }
