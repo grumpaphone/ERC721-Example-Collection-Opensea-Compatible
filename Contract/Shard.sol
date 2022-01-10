@@ -19,7 +19,7 @@ contract Shard is ERC721, ERC721Enumerable, Ownable {
 
     constructor() ERC721("Shard", "SHRD") {}
 
-    // The IPFS uri, containing all the json files for the collection's NFTs.
+    // The IPFS uri, containing all the json files for this contract's NFTs.
     function _baseURI() internal pure override returns (string memory){
         return "ipfs://QmP6o3FdohRZFE3UV5uCzSvgfdfkw9yJiS95t6kiHVYFKv/";
     }
