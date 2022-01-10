@@ -1,0 +1,9 @@
+{
+	"description": "A Yellow & White shard.",
+	"image": "ipfs://Qmf3gikfjcmHEMsJxVYzHmTwToPsiKZgxFuQKkm5dD4gXF/3.png",
+	"name": "#3",
+	"attributes": [
+	{"trait_type": "Color",
+	"value": "Yellow & White"}
+	]
+}

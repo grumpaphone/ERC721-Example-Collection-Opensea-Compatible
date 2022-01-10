@@ -1,0 +1,9 @@
+{
+	"description": "A Orange & White shard.",
+	"image": "ipfs://Qmf3gikfjcmHEMsJxVYzHmTwToPsiKZgxFuQKkm5dD4gXF/2.png",
+	"name": "#2",
+	"attributes": [
+	{"trait_type": "Color",
+	"value": "Orange & White"}
+	]
+}
