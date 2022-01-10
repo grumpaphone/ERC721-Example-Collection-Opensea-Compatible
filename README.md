@@ -1,4 +1,4 @@
-# ERC721 Example Collection
+# About
 An example ERC721 collection
 # Features
 Incrementing token IDs
